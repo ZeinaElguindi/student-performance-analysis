@@ -41,7 +41,11 @@ This project explores student exam data using both **regression** and **classifi
 ---
 
 ## 🚀 How to Run
-Clone the repository:
+Clone the repository:<br>
+```
 git clone https://github.com/ZeinaElguindi/student-performance-analysis.git
+```
+```
 cd student-performance-analysis
+```
 Open the main.ipynb file in VSCode or run `jupyter notebook` to open in Jupyter
