@@ -31,8 +31,6 @@ This project explores student exam data using both **regression** and **classifi
 
 - ✅ Scatter plot of average score vs math score, colored by pass/fail
 - ✅ Confusion Matrix
-- ✅ Actual vs Predicted math scores (regression)
-- ✅ Decision Tree visualization
 
 ---
 
